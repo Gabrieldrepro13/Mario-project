@@ -1,0 +1,9 @@
+flecha arriba para saltar
+flecha abajo para agacharse
+
+nunca manten presionado la flecha arriba, porque el juego se cierra (rason: saltar mas alto de lo normal)
+si pueden mantener presionado la flecha abajo
+
+la flecha abajo solo sirve para esquivar el ave con facilidad
+
+porfavor dale click al boton x para jugar el juego
